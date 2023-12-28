@@ -68,10 +68,10 @@
   contents:
     - year: 2022
       items: 
-        - NASA CT Space Grant, <u>Undergraduate Scholarship</u>
+        - NASA CT Space Grant, <a href='https://ctspacegrant.org/9337/fall-2022-award-recipients-announced'>Undergraduate Scholarship</a>
     - year: 2019
       items:
-        - New York Jewish Week, <u>36 Under 36</u>
+        - New York Jewish Week, <a href='https://www.jta.org/2019/06/04/ny/annie-giman-18'>36 Under 36</a>
 
 # - title: Academic Interests
 #   type: nested_list

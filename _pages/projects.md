@@ -9,8 +9,6 @@ display_categories: [sciency, not sciency]
 horizontal: false
 ---
 
-*Projects will be added soon*
-
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

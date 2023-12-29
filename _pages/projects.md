@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Projects
+layout: default
+title: projects
 permalink: /projects/
 description: 
 nav: true
@@ -9,4 +9,4 @@ display_categories: [sciency, not sciency]
 horizontal: false
 ---
 
-Projects will be added soon
+*Projects will be added soon*

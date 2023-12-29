@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Projects
+description: 
 nav: true
 nav_order: 3
-# display_categories: [work, fun]
-# horizontal: false
+display_categories: [sciency, not sciency]
+horizontal: false
 ---
 
 Projects will be added soon

@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 title: research
 permalink: /research/
 description: #Research

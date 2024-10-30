@@ -9,10 +9,10 @@ middle_name:
 last_name: Giman
 email: annie.giman@yale.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Astrophysics senior at Yale
+  PhD Student at JHU
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: giman, annie giman, elizabeth giman, astrophysics, yale, AGN  # add your own keywords or leave empty
+keywords: giman, annie giman, elizabeth giman, astrophysics, yale, Hopkins, JHU, AGN  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: blackhole.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
